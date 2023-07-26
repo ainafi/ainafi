@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ainafi
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning front-end development
+- 👀 I’m interested in front-end developer 
+- 🌱 I’m currently learning reactjs 
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact me:
-✉razanaminoainafinaritra@gmail.com
+✉AinaFinaritraRaz@gmail.com 
 📱0342043492
 
 <!---
