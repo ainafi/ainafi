@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **computer science at ENI**
 
-- 💬 Ask me about **react js and javascript**
+- 💬 Ask me about **react js and Typescript**
 
 - 📫 How to reach me **ainafinaritraraz@gmail.com**
 
