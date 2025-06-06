@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react js and Typescript**
 
-- 📫 How to reach me **ainafinaritraraz@gmail.com**
+- 📫 How to reach me **razanaminoainafinaritra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
