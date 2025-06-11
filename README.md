@@ -1,7 +1,7 @@
 
 ![MasterHead](https://github.com/ainafi/ainafi/blob/main/LinkedIn%20cover%20-%202.png)
 <h1 align="center">Hi 👋, I'm Ainafi</h1>
-<h3 align="center">Passionate React Developer & UI/UX Designer: Crafting Intuitive Digital Experiences</h3>
+<h3 align="center">Passionate Next js  Developer & UI/UX Designer: Crafting Intuitive Digital Experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ainafi&label=Profile%20views&color=0e75b6&style=flat" alt="ainafi" /> </p>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU5YXF6YTA5b3M5aXF6cmljaXpwdTVzanM5aXF2bjkyMzd4eG91YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
